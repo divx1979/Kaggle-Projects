@@ -1,2 +1,2 @@
-# DQ-Projects
-All my DQ Projects
+# Kaggle-Projects
+All my Projects
